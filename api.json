@@ -1,0 +1,25 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "John",
+                "last": "Doe"
+            },
+            "email": "john.doe@example.com",
+            "phone": "012-345-6789",
+            "picture": {
+                "large": "https://example.com/pictures/large/john.jpg",
+                "medium": "https://example.com/pictures/medium/john.jpg",
+                "thumbnail": "https://example.com/pictures/thumbnail/john.jpg"
+            }
+        }
+    ],
+    "info": {
+        "seed": "abc123xyz",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
